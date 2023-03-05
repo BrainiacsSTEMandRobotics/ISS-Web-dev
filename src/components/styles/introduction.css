@@ -1,0 +1,24 @@
+.introduction{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.intro-img-section{
+    width: 20rem;
+}
+.intro-img-section img{
+    width: 100%;
+    object-fit: contain;
+    opacity: 0.7;
+    border-radius:20px ;
+}
+.intro-content p,h3{
+    text-align: center;
+}
+@media only screen and (max-width:500px){
+    /* .intro-img-section{
+        width: 100%;
+    } */
+}
