@@ -1,11 +1,8 @@
-body {
-  background-image:linear-gradient(to bottom, #000000c9,#0a0a23 ), url('./assets/reading.jpg');
+
+body{
+  background:linear-gradient(to bottom, #000000c9,#0a0a23 );
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: rgb(207, 190, 190);
-  font-family: "Montserrat", sans-serif;
-  line-height: 1.5;
-  font-size: 0.875rem;
-  /* height: 100vh; */
+  
 }

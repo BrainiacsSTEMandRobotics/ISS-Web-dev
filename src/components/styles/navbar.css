@@ -1,10 +1,14 @@
 .navbar{
     width: 100%;
-    color: rgb(207, 190, 190);
+    background-color: rgb(165, 153, 84);
+    
 }
 .nav-ul{
+    min-height: 7vh;
+    color: white;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 .nav-ul li{
     list-style-type: none;

@@ -9,8 +9,8 @@ const Hero = () => {
               <img src={book} alt='book'/>
           </div>
           <div className='hero-intro'>
-            <h3>Brief Intro comes here</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati beatae culpa corporis atque excepturi. Nostrum sunt nobis ipsum distinctio magnam.</p>
+            <h3>Book club</h3>
+            <p>One stop for all the books you need</p>
           </div>
     </section>
   )

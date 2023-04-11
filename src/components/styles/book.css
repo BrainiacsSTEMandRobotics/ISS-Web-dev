@@ -1,0 +1,51 @@
+books{
+     margin-top: 0.7rem;
+}
+.books p{
+    text-align: center;
+    color: white;
+    font-size: 0.8rem;
+    margin-bottom: 0.6rem;
+}
+.card-container{
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card{
+   width: 8rem;
+   border-radius:10px ;
+   background-color: rgb(86, 86, 88);
+   height: 15rem;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   color: rgb(42, 42, 57);
+   
+}
+.card img{
+    width: 8rem;
+    border-radius: 10px;
+    height: 8rem;
+    object-fit: cover;
+}
+
+.card button{
+    padding: 0.2rem 0.4rem;
+    font-size: 0.7rem;
+    background-color: rgb(161, 161, 239);
+    border-radius: 10px;
+    border: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+h2{
+    text-align: center;
+    color: white;
+    margin: 1rem 0;
+}

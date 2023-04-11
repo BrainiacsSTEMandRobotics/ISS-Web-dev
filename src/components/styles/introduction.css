@@ -6,7 +6,7 @@
 
 
 .intro-img-section{
-    width: 20rem;
+    width: 7rem;
 }
 .intro-img-section img{
     width: 100%;
@@ -16,9 +16,5 @@
 }
 .intro-content p,h3{
     text-align: center;
-}
-@media only screen and (max-width:500px){
-    /* .intro-img-section{
-        width: 100%;
-    } */
+    color: white;
 }
