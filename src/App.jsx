@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar"
 import HeroSection from "./components/Hero-section"
 import Introduction from "./components/Introduction";
 import BookContainer from "./components/BookContainer";
+import Footer from "./components/Footer";
 
 const App = ()=> {
 
@@ -11,7 +12,8 @@ const App = ()=> {
 		  <Navbar />
 		  <HeroSection />
 		  <Introduction />
-		  <BookContainer/>
+		  <BookContainer />
+		  <Footer/>
 		</>
 	);
 }
